@@ -1,0 +1,7 @@
+*.suo
+packages/*
+*/bin/Debug/*
+*/bin/Release/*
+
+*/obj/Debug/*
+*/obj/Release/*
