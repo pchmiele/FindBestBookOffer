@@ -62,6 +62,7 @@
     <Compile Include="Apress\ApressSearchResult.cs" />
     <Compile Include="Apress\ApressSite.cs" />
     <Compile Include="Apress\ApressUriTemplate.cs" />
+    <Compile Include="FindBestBookOffer.cs" />
     <Compile Include="Interfaces\ISearchResult.cs" />
     <Compile Include="Model\Book.cs" />
     <Compile Include="Model\BookFactory.cs" />
