@@ -55,9 +55,6 @@ namespace FindBestBookOffer
         {
             var offerFromApress = FindApressOffer(book);
             var offerFromAmazon = FindAmazonOffer(book);
-            Console.WriteLine(book.ToString());
-            Console.WriteLine(offerFromApress);
-            Console.WriteLine(offerFromAmazon);
             ChooseBestOffer(offerFromAmazon, offerFromApress);
         }
 
